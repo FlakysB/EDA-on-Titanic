@@ -30,4 +30,4 @@ This project is just the beginning of my data analysis journey. I'm eager to tak
 
 Feel free to connect with me if you'd like to discuss this project or collaborate on data analysis initiatives. Let's explore the fascinating world of data together! 🌐
 
-#DataAnalysis #DataScience #DataVisualization #MachineLearning #Python #LinkedInProjects
+#DataAnalysis #DataScience #DataVisualization #MachineLearning #Python 
